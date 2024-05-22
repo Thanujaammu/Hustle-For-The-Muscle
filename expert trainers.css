@@ -1,0 +1,17 @@
+.left{
+    display: flex;
+}
+.left{
+    /* padding-left: 15px;
+    padding-top: 15px;
+    align-items: center;
+    justify-content: center; */
+    display: flex;
+  background-color: #d4e0eb;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 25px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

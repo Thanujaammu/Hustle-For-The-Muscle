@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        /* CSS for styling */
+        body {
+            
+            font-family: Aptos;
+            font-size:16px;
+        
+            margin: 0;
+            padding: 0;
+            background-color: antiquewhite;
+        }
+        *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    box-shadow: 0 5px 10px black;
+    padding:15px 20px;
+    flex-wrap: wrap;
+}
+.list{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+#toggle,label{
+    display: none;
+}
+@media(max-width:580px){
+    .list{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        display: none;
+        padding: 20px;
+    }
+    label{
+        display: block;
+    }
+    #toggle:checked ~ .list{
+        display: flex;
+    }
+}/* Mobile View CSS Code END*/
+
+ .navbar
+  {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #9f1c66;
+  box-shadow: 0 2px 5px rgba(13, 148, 44, 0.539);
+}
+
+.brand-logo,
+.nav-links a,
+.signup-button {
+  transition: all 0.3s ease-in-out; /* Apply transition to all elements */
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-links a:hover {
+  color: #007bff; /* Hover effect for links */
+}
+
+.signup-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signup-button:hover {
+  background-color: #0067cc; /* Hover effect for signup button */
+}
+
+.brand-logo:hover {
+  /* Optionally add a hover effect for the brand logo */
+  color: #007bff;
+}
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: calc(100% - 22px);
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        #image-container {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        #contactForm label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<!-- *****NavBar Header Area Start ***** -->
+
+
+
+<header>
+  <div class="nav">
+    <h4><span style="color:rgba(168, 20, 212, 0.957);"><b>PULSE POWER </span><span style="color:rgb(66, 191, 21);">PALACE</span></b></h4>
+      <input type="checkbox" id="toggle">
+      <label for="toggle"><i class="fa-solid fa-bars"></i></label>
+      <ul class="list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        
+        <li><a href="schedule.html">Schedules</a></li>
+        <li><a href="expert trainers.html">Expert Trainers</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+        <li><a href="chatbot.html">ChatBot</a></li>
+        <a href="Login.html" class="signup-button">Sign Up</a>
+      </ul>
+      
+   </div> 
+    </header>  
+
+<!-- ***** Navbar Header Area End ***** -->
+<div class="container">
+    <div id="image-container">
+        <!-- <img src="" alt="Contact Image"> -->
+    </div>
+    <h2>Contact Us</h2>
+    <form id="contactForm">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+    <div id="response"></div>
+</div>
+
+<script>
+    document.getElementById('contactForm').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the form from submitting normally
+
+    // Get form values
+    var name = document.getElementById('name').value;
+    var email = document.getElementById('email').value;
+    var message = document.getElementById('message').value;
+
+    // You can send the form data to a server here if needed
+
+    // Show a pop-up message
+    alert("Thanks for your response");
+});
+</script>
+</body>
+</html>

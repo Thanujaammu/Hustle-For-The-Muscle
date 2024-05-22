@@ -1,0 +1,62 @@
+<section class="section" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="section-heading">
+                        <h2>Select <em> Course</em></h2>
+                        <p>These courses may be offered by gyms as part of membership packages or as standalone programs. They may be conducted by certified fitness instructors or personal trainers.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="features-items">
+                        <li class="feature-item">
+                            <div class="left-icon">
+                                <img src="D:\training-studio-1.0.0\training-studio-1.0.0\assets\images\PUSH UPS (2).jpg">
+                            </div>
+                            <div class="right-content">
+                            
+                                <h4>Basic Fitness</h4>
+                                <p style="text-align:left;","font-size
+                                <p> Basic fitness about being able to do everyday activities without feeling too tired or out of breath.This includes things like walking,lifting light objects,and climbing stairs without difficulty.</p>
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                        <li class="feature-item">
+                            <div class="left-icon">
+                                <img src="D:\training-studio-1.0.0\training-studio-1.0.0\assets\images\muscle1.jpg">
+                            </div>
+                            <div class="right-content">
+                                <h4>Muscle Course</h4>
+                                <p>Muscle gain means increasing muscle size and strength through exercise and nutrition. It requires lifting weights, consuming enough protein, and resting adequately for muscles to repair and grow stronger.</p>
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                       
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="features-items">
+                        <li class="feature-item">
+                            <div class="left-icon">
+                                <img src="D:\training-studio-1.0.0\training-studio-1.0.0\assets\images\body.jpg">
+                            </div>
+                            <div class="right-content">
+                                <h4>Full Body Building Course</h4>
+                                <p>Learn the fundamentals of full-body building with our comprehensive course.From proper form to nutrition,we cover everything you need for effective growth.</p>
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                        <li class="feature-item">
+                            <div class="left-icon">
+                                <img src="D:\training-studio-1.0.0\training-studio-1.0.0\assets\images\yoga.jpg">
+                            </div>
+                            <h4>Yoga Training</h4>
+                                <p>Yoga training teaches poses and breathing techniques for physical and mental well-being, promoting flexibility, strength, and relaxation.</p>
+                                <a href="#" class="text-button"></a>
+                            
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>

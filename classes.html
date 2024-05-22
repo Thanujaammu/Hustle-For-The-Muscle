@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<style>
+
+    p{
+font-size: 20px;
+}
+body{
+    font-family: Aptos;
+    font-size:16px;
+
+}
+/* ----------------------------------------------- */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    box-shadow: 0 5px 10px black;
+    padding:15px 20px;
+    flex-wrap: wrap;
+}
+.list{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+#toggle,label{
+    display: none;
+}
+@media(max-width:580px){
+    .list{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        display: none;
+        padding: 20px;
+    }
+    label{
+        display: block;
+    }
+    #toggle:checked ~ .list{
+        display: flex;
+    }
+}/* Mobile View CSS Code END*/
+
+
+
+
+
+                .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.brand-logo,
+.nav-links a,
+.signup-button {
+  transition: all 0.3s ease-in-out; /* Apply transition to all elements */
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-links a:hover {
+  color: #007bff; /* Hover effect for links */
+}
+
+.signup-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signup-button:hover {
+  background-color: #0067cc; /* Hover effect for signup button */
+}
+
+.brand-logo:hover {
+  /* Optionally add a hover effect for the brand logo */
+  color: #007bff;
+}
+
+
+.footer {
+  background-color: #6F9196; /* Dark background */
+  color: #fff; /* White text */
+  padding: 30px 0;
+  text-align: center; /* Center content horizontally */
+}
+
+.footer-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.footer-link {
+  color: inherit; /* Inherit white text color */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: transparent; /* Transparent background for buttons */
+  border: 1px solid #fff; /* White border for buttons */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.footer-link:hover {
+  background-color: #fff; /* Light grey background on hover */
+  color: #212529; /* Dark text on hover */
+}
+
+.ml-3 {
+  margin-left: 1rem; /* Spacing between buttons */
+}
+
+
+@media (max-width: 768px) {
+  /* Adjust layout for smaller screens */
+  .footer .row {
+    text-align: left; /* Align left on small screens */
+  }
+  .footer-title {
+    margin-bottom: 15px;
+  }
+}
+
+.colorc{
+   color: white; 
+  
+}    
+/* .container{
+  padding: 25px;
+} */
+.section{
+  /* align-items: center; */
+  justify-content: center;
+  text-align: center;
+}
+.style{
+  background-color: antiquewhite;
+  justify-content: center;
+  text-align: center;
+}
+.style-1{
+  background-color: antiquewhite;
+  padding-top: 2rem;
+}
+</style>
+<body>
+
+    <!-- *****NavBar Header Area Start ***** -->
+
+
+    <header>
+      <div class="nav">
+        <h4><span style="color:rgba(168, 20, 212, 0.957);"><b>PULSE POWER </span><span style="color:rgb(66, 191, 21);">PALACE</span></b></h4>
+        <input type="checkbox" id="toggle">
+          <label for="toggle"><i class="fa-solid fa-bars"></i></label>
+          <ul class="list">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="classes.html">Classes</a></li>
+            <li><a href="schedule.html">Schedules</a></li>
+            <li><a href="expert trainers.html">Expert Trainers</a></li>
+            <li><a href="Contact.html">Contact</a></li>
+            <li><a href="chatbot.html">ChatBot</a></li>
+            <a href="Login.html" class="signup-button">Sign Up</a>
+          </ul>
+     
+       </div> 
+    </header>  
+         <!-- ***** Navbar Header Area End ***** -->
+
+
+  
+    <!-- ***** Our Classes Start ***** -->
+    <body  style="background-color:#edede900;"></body>
+    <section class="section" id="our-classes">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="section-heading">
+                        
+                       
+                </div>
+            </div>
+            <div class="row" id="tabs">
+              <div class="col-lg-4 style">
+                <h2 class="style-1">Our <em>Classes</em></h2></br></br>
+                <ul>
+                  <li><a <li class="scroll-to-section"><a href="Advance.html">Advance Training Class</a></a></li></br>
+                  <li><a <li class="scroll-to-section"><a href="premium.html">Premimum Training Class</a></a></li></br>
+                </b></br></br></br></br></br></br></br></br></br></br></br></br>
+                </ul>
+              </div>
+              <div class="col-lg-8">
+                <section class='tabs-content'>
+                  <article id='tabs-1'>
+                    <div class="main-button">
+                    </div>
+                  </article>
+                  <article id='tabs-2'>
+                    <div class="main-button">
+                    </div>
+                  </article>
+                  <article id='tabs-3'>
+                    <div class="main-button">
+
+                    </div>
+                  </article>
+                  
+                </section>
+              </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Our Classes End ***** -->
+
+
+        <!-- ***** footer Area End ***** -->
+
+        <footer class="footer">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-md-6">
+                <h3 class="footer-title">Pulse Power Palace</h3>
+                <p class="colorc">We are passionate about providing high-quality Training.</p></br>
+              </div>
+              <div class="col-md-6 d-flex justify-content-end">
+                <a href="about.html" class="footer-link">About Us</a>
+                <a href="Contact.html" class="footer-link ml-3">Contact</a>
+              </div>
+            </div>
+          </div>
+        </footer>
+  
+      <!-- ***** footer Banner Area End ***** -->
+  
+    
+</body>
+</html>
