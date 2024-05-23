@@ -36,50 +36,57 @@ Azure Backup Service:- Azure Backup Service is a cloud-based solution from Micro
 Azure Chatbot :- An Azure Chatbot is a virtual assistant created using Microsoft's Azure platform. It interacts with users through text or voice. The chatbot can answer questions, perform tasks, and provide information. Developers use Azure services like Bot Framework and Cognitive Services to build and deploy these chatbots for various applications.
 # Screenshot’s:
 # Storage Account
-![storage account](https://github.com/kbjtushar/victory-vault/assets/161484157/721ce368-18ed-40f7-b87e-4e3934f644ec)
-
+![storage account](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/f90cfb13-230b-4059-9bbf-afd10deba126)
 # Static website
-![static website](https://github.com/kbjtushar/victory-vault/assets/161484157/08f69078-1167-463f-8f20-dcefd5085e33)
+
+![static website](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/debe6a95-31af-4902-bcbe-269450348110)
+
 
 # Container
-![container](https://github.com/kbjtushar/victory-vault/assets/161484157/19f2d0fd-5644-4d1f-a0b1-89d29e8d3d50)
-
+![containers](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/0b8fe824-e53d-4ce9-b1d8-58f7d6e39bee)
 # Backup vault
-![backup vault](https://github.com/kbjtushar/victory-vault/assets/161484157/e56b7a6e-cf95-486a-a5aa-3c026f4180ad)
+![backup vault](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/a5d9551c-a117-4888-9300-877256d14250)
 
 # Role assignment
-![role assignment](https://github.com/kbjtushar/victory-vault/assets/161484157/c54ab63f-4312-4da5-b539-6238efd5e78e)
+
+![role assign](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/8bed430f-2c34-4418-a04d-087c7b275870)
 
 # Backup policy
-![backup policy](https://github.com/kbjtushar/victory-vault/assets/161484157/68ec0412-5147-4a88-8b5d-20a31b409d5a)
 
+![backup policy](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/4145d64e-fe36-4dac-9bca-25908b3610b3)
 # Azure Bot
-![azure bot](https://github.com/kbjtushar/victory-vault/assets/161484157/47d6968c-91cd-4e87-b523-2dc2e430e69d)
+![bot](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/76415474-21a5-4fac-8f46-2c04bc330728)
+
 
 # Test in web chat
-![test in webchat](https://github.com/kbjtushar/victory-vault/assets/161484157/9219a2df-5b27-426a-9fdb-4cad13cc2be6)
+![chatbot](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/6434845b-122d-4164-b1f0-2bc4eeda50cf)
 
-# Resource visualizer
-![resource visualizer](https://github.com/kbjtushar/victory-vault/assets/161484157/9ae82a6f-3e6e-4a8c-945e-0a6bc8ef47ed)
 
 # Description
-Here I am attaching the final working website's screenshot for the reference.
+Here I am attaching a screenshot of the final working website for your reference.
 
 # Working Live Project Display:
 # Home page
-![home](https://github.com/kbjtushar/victory-vault/assets/161484157/f8fc6c8a-5392-4c4c-b8af-3a07a631f7af)
 
-# History
-![history](https://github.com/kbjtushar/victory-vault/assets/161484157/91758bdf-8954-48c7-9f38-d15d1345a117)
+![home 1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/47250c03-4726-4059-a436-36986d8afa7c)
+![home 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/b5db89c3-bbdd-4e40-ac05-990101cd26be)
+# About
+![about1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/bcb045d3-4766-45d7-9e1e-f116756866ea)
+![about 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/07ac3647-4fdb-4969-b758-76752cee8a46)
 
-# facilities page
-![facilities page](https://github.com/kbjtushar/victory-vault/assets/161484157/23f633c8-bb4d-4006-b356-a78d96ca7bb7)
 
-# Sports page
-![sports page](https://github.com/kbjtushar/victory-vault/assets/161484157/edc7c16d-27eb-463b-a212-779fd165d9aa)
+# Schedules
+
+![schedules](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/167f074f-644e-4d2f-b515-292cb5b09ae8)
+
+# Expert Trainers
+![expert 1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/5795d849-b066-4213-ab8a-db20016fb59c)
+![expert 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/d9373709-950c-4f3e-9f01-9684e515c19e)
 
 # Contact page
-![contact page](https://github.com/kbjtushar/victory-vault/assets/161484157/3ae8ede2-15e0-43d2-a1de-8235b50dcf6a)
+![contact (2)](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/c56979dc-cffd-405c-abcd-64a2c492fbd3)
+# Sign Up
 
+![signup](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/84714b6b-e7f0-4a3e-98e0-93fe2125aa3c)
 # Final Project Statement:
 Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
