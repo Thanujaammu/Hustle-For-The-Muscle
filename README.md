@@ -87,6 +87,7 @@ Here I am attaching a screenshot of the final working website for your reference
 ![contact (2)](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/c56979dc-cffd-405c-abcd-64a2c492fbd3)
 # Sign Up
 
-![signup](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/84714b6b-e7f0-4a3e-98e0-93fe2125aa3c)
+
+![signup](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/fb200b28-af5a-4a04-bb9e-8b555043730b)
 # Final Project Statement:
-Inspiring athletes to reach their full potential through state-of-the-art facilities, expert coaching, and comprehensive training programs. Join us to unlock your athletic excellence and become part of our thriving sports community.
+The Pulse Power Palace Gym aims to create a state-of-the-art fitness center. It will feature modern equipment, innovative training programs, and wellness services. The project focuses on promoting health, enhancing member experiences, and fostering a community of fitness enthusiasts. The goal is to inspire active lifestyles.
