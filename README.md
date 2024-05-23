@@ -4,7 +4,7 @@ Pulse Power Palace Gym offers a state-of-the-art fitness experience. Our facilit
 # Project Details
 1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
 2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
+3. GitHub Repository URL: https://github.com/Thanujaammu/Hustle-For-The-Muscle
 4. Industry: lifestyle - Fitness
 # Roles and responsibilities
 1. Padala Thanuja (project management) :Manages the web development project.
