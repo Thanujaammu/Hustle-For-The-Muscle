@@ -3,7 +3,7 @@ Pulse Power Palace Gym offers a state-of-the-art fitness experience. Our facilit
 
 # Project Details
 1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
-2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
+2. Demo Video URL: https://youtu.be/2UwwXgjvSTQ?si=M-oQ9ajAaGJVYVWr
 3. GitHub Repository URL: https://github.com/Thanujaammu/Hustle-For-The-Muscle
 4. Industry: lifestyle - Fitness
 # Roles and responsibilities
