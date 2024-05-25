@@ -10,7 +10,7 @@ Pulse Power Palace Gym offers a state-of-the-art fitness experience. Our facilit
 1. Padala Thanuja (project management) :Manages the web development project.
 2. M Mahaboob Basha (Deployment) :Deployment and maintenance of project infrastructure.
 3. Nimboji Mahavishnusai ( chat bot questions and Documentation) :Responsible for managing the documentation process and chat bot questions
-4. Niharika Medishetti ( Images ) :Responsible for image searching 
+4. Medishetti Niharika ( Images ) :Responsible for image searching 
 # Azure services used:
 1. Azure blob storage
 2. Storage account
