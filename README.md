@@ -70,20 +70,21 @@ Here I am attaching a screenshot of the final working website for your reference
 ![Screenshot 2024-06-01 201022](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/52c8911c-244c-4eb6-9aa3-649384a7a41e)
 ![Screenshot 2024-06-01 201052](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/d7ec2325-ce10-4523-bb9a-acf00ee257ca)
 # About
-![about1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/bcb045d3-4766-45d7-9e1e-f116756866ea)
-![about 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/07ac3647-4fdb-4969-b758-76752cee8a46)
 
+![Screenshot 2024-06-01 201528](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/fb24bab1-a3d1-46e0-90db-d7763d68122e)
+![Screenshot 2024-06-01 201608](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/b26a4970-17c8-4c52-a4ae-b2b36aa693e4)
 
 # Schedules
 
-![schedules](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/167f074f-644e-4d2f-b515-292cb5b09ae8)
+![Screenshot 2024-06-01 201721](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/cc79bbf8-7b2b-429f-b21f-c4b71b6cda0b)
+
 
 # Expert Trainers
-![expert 1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/5795d849-b066-4213-ab8a-db20016fb59c)
-![expert 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/d9373709-950c-4f3e-9f01-9684e515c19e)
+![Screenshot 2024-06-01 201831](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/9bc37d5b-4e42-422d-aecf-08642953dc61)
+![Screenshot 2024-06-01 201906](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/436dd173-adb8-4e7b-be5b-99ec3013a166)
 
 # Contact page
-![contact (2)](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/c56979dc-cffd-405c-abcd-64a2c492fbd3)
+
 # Login
 
 ![Screenshot 2024-06-01 195740](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/0f6a753e-d33b-42f0-86ef-fd59795d3d7c)
