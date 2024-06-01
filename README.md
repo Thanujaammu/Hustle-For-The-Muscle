@@ -67,9 +67,8 @@ Here I am attaching a screenshot of the final working website for your reference
 
 # Working Live Project Display:
 # Home page
-
-![home 1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/47250c03-4726-4059-a436-36986d8afa7c)
-![home 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/b5db89c3-bbdd-4e40-ac05-990101cd26be)
+![Screenshot 2024-06-01 201022](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/52c8911c-244c-4eb6-9aa3-649384a7a41e)
+![Screenshot 2024-06-01 201052](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/d7ec2325-ce10-4523-bb9a-acf00ee257ca)
 # About
 ![about1](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/bcb045d3-4766-45d7-9e1e-f116756866ea)
 ![about 2](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/07ac3647-4fdb-4969-b758-76752cee8a46)
