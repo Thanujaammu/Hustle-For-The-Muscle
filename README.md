@@ -85,7 +85,7 @@ Here I am attaching a screenshot of the final working website for your reference
 
 # Contact page
 ![contact (2)](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/c56979dc-cffd-405c-abcd-64a2c492fbd3)
-# Sign Up
+# Login
 
 
 ![signup](https://github.com/Thanujaammu/Hustle-For-The-Muscle/assets/167110510/fb200b28-af5a-4a04-bb9e-8b555043730b)
