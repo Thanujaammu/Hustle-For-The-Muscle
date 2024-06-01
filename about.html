@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="about2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+      *{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    box-shadow: 0 5px 10px black;
+    padding:15px 20px;
+    flex-wrap: wrap;
+}
+.list{
+    display: flex;
+    gap: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+#toggle,label{
+    display: none;
+}
+@media(max-width:580px){
+    .list{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+        display: none;
+        padding: 20px;
+    }
+    label{
+        display: block;
+    }
+    #toggle:checked ~ .list{
+        display: flex;
+    }
+}/* Mobile View CSS Code END*/
+
+
+        li{
+            list-style-type: none;
+        }
+        left-icon{
+            display: flex;
+        }
+        body{
+    font-family:Aptos;
+    font-size:16px;
+
+}
+
+                
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #c5c360a2;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.brand-logo,
+.nav-links a,
+.signup-button {
+  transition: all 0.3s ease-in-out; /* Apply transition to all elements */
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #000;
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-links a:hover {
+  color: #007bff; /* Hover effect for links */
+}
+
+.signup-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signup-button:hover {
+  background-color: #0067cc; /* Hover effect for signup button */
+}
+
+.brand-logo:hover {
+  /* Optionally add a hover effect for the brand logo */
+  color: #007bff;
+}
+
+.footer {
+  background-color: #6F9196; /* Dark background */
+  color: #fff; /* White text */
+  padding: 30px 0;
+  text-align: center; /* Center content horizontally */
+}
+
+.footer-title {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.footer-link {
+  color: inherit; /* Inherit white text color */
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: transparent; /* Transparent background for buttons */
+  border: 1px solid #fff; /* White border for buttons */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.footer-link:hover {
+  background-color: #fff; /* Light grey background on hover */
+  color: #212529; /* Dark text on hover */
+}
+
+.ml-3 {
+  margin-left: 1rem; /* Spacing between buttons */
+}
+
+
+@media (max-width: 768px) {
+  /* Adjust layout for smaller screens */
+  .footer .row {
+    text-align: left; /* Align left on small screens */
+  }
+  .footer-title {
+    margin-bottom: 15px;
+  }
+}
+
+.colorc{
+   color: white; 
+  
+}    
+.first{
+  text-align: center;
+  justify-content: center;
+}
+.second{
+  display: flex;
+  background-color: #d4e0eb;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 25px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.change{
+  display: flex;
+  padding:0 25px;
+}
+.change p{
+  padding: 75px;
+  
+}   
+.haha{
+  font-weight: bolder;
+}         
+    </style>
+</head>
+<body>
+    
+
+  
+
+  <header>
+    <div class="nav">
+      <h4><span style="color:rgba(168, 20, 212, 0.957);"><b>PULSE POWER </span><span style="color:rgb(66, 191, 21);">PALACE</span></b></h4>
+      <input type="checkbox" id="toggle">
+        <label for="toggle"><i class="fa-solid fa-bars"></i></label>
+        <ul class="list">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="schedule.html">Schedules</a></li>
+          <li><a href="expert trainers.html">Expert Trainers</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+          <li><a href="chatbot.html">ChatBot</a></li>
+          <a href="Login.html" class="signup-button">Login</a>
+        </ul>
+        
+
+     </div> 
+  </header>  
+
+    <!-- ***** Features Item Start ***** -->
+    <body style="background-color:#edede900;"></body>
+    <!-- <section class="section" id="features">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="section-heading">
+                        <h2>Select <em> Course</em></h2></br>
+                        <p>These courses may be offered by gyms as part of membership packages or as standalone programs. They may be conducted by certified fitness instructors or personal trainers.</p></br>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="features-items">
+                        <li class="feature-item">
+                            <div class="left">
+                            <img src="PUSH UPS (2).jpg" >
+                            <p> Basic fitness about being able to do everyday activities without feeling too tired or out of breath.<br/>This includes things like walking,lifting light objects,and climbing stairs without difficulty.</p></br>
+                            </div>
+                            <div class="right-content">
+                                <p style="text-align:left;","font-size
+                                <h4><b>Basic Fitness</b></h4></br></br>
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                        <li class="feature-item " >
+                            <div class="left">
+                                <img src="muscle1.jpg" >
+                                <p>Muscle gain means increasing muscle size and strength through exercise and nutrition.<br/>It requires lifting weights, consuming enough protein,<br/> and resting adequately for muscles to repair and grow stronger.</p></br>
+                            </div>
+                            <div class="right-content">
+                                <p style="text-align:left;","font-size
+
+                                <h4><b>Muscle Course</b></h4></br></br>
+                                
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                       
+                    </ul>
+                </div>
+                <div class="col-lg-6">
+                    <ul class="features-items">
+                        <li class="feature-item">
+                            <div class="left">
+                                <img src="body.jpg"></br>
+                                <p>Learn the fundamentals of full-body building with our comprehensive course.<br/>From proper form to nutrition,we cover everything you need for effective growth.</p></br>
+
+                            </div>
+                            <div class="right-content">
+                                <p style="text-align:left;","font-size
+
+                                <h4><b>Full Body Building Course</b></h4></br></br>
+                               
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                        <li class="feature-item">
+                            <div class="left">
+                                <img src="yoga.jpg"></br>
+                                <p>Yoga training teaches poses and breathing techniques for physical and mental well-being,<br/> promoting flexibility, strength, and relaxation.</p></br>
+                            </div>
+                            <div class="right-content">
+                                <p style="text-align:left;","font-size
+                            <h4><b>Yoga Training</b></h4></br></br>
+                            
+                                <a href="#" class="text-button"></a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <section>
+      <div class="first">
+        <h2>Select <em> Course</em></h2></br>
+        <p class="haha">These courses may be offered by gyms as part of membership packages or as standalone programs. They may be conducted by certified fitness instructors or personal trainers.</p></br>          
+      </div>
+      <div class="second">
+        <div class="change">
+          <h4><img src="PUSH UPS (2).jpg"><br>Basic Fitness</h4>
+          <p class="haha"> Basic fitness about being able to do everyday activities without feeling too tired or out of breath.This includes things like walking,lifting light objects,and climbing stairs without difficulty.</p></br>
+          </div>
+      </div>
+      <div class="second">
+        <div class="change">
+          <h4><img src="muscle1.jpg"><br>Muscle Course</h4>
+          <p class="haha"> Muscle gain means increasing muscle size and strength through exercise and nutrition.It requires lifting weights, consuming enough protein, and resting adequately for muscles to repair and grow stronger.</p></br>
+          </div>
+      </div>
+      <div class="second">
+        <div class="change">
+          <h4><img src="body.jpg"><br>Full Body Building Course</h4>
+          <p class="haha"> Learn the fundamentals of full-body building with our comprehensive course.From proper form to nutrition,we cover everything you need for effective growth.</p></br>
+          </div>
+      </div>
+      <div class="second">
+        <div class="change">
+          <h4><img src="yoga.jpg"><br>Yoga Training</h4>
+          <p class="haha"> Yoga training teaches poses and breathing techniques for physical and mental well-being,promoting flexibility, strength,and relaxation.</p></br>
+          </div>
+      </div>
+    </section>
+    <!-- ***** Features Item End ***** -->
+
+        <!-- ***** footer Area End ***** -->
+
+        <footer class="footer">
+            <div class="container">
+              <div class="row align-items-center">
+                <div class="col-md-6">
+                  <h3 class="footer-title">Pulse Power Palace</h3>
+                  <p class="colorc">We are passionate about providing high-quality Training.</p></br>
+                </div>
+                <div class="col-md-6 d-flex justify-content-end">
+                  <a href="about.html" class="footer-link">About Us</a>
+                  <a href="Contact.html" class="footer-link ml-3">Contact</a>
+                </div>
+              </div>
+            </div>
+          </footer>
+    
+        <!-- ***** footer Banner Area End ***** -->
+    
+
+</body>
+</html>
